@@ -1549,22 +1549,6 @@
       }
     ]
   },
-  "Microsoft SQL Server Management Studio": {
-    "floating": [
-      [
-        {
-          "kind": "Exe",
-          "id": "Ssms.exe",
-          "matching_strategy": "Equals"
-        },
-        {
-          "kind": "Class",
-          "id": "WindowsForms10.Window.8.app",
-          "matching_strategy": "StartsWith"
-        }
-      ]
-     ]
-  },
   "Microsoft Teams": {
     "tray_and_multi_window": [
       {
